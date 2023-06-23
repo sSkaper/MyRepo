@@ -1,0 +1,23 @@
+h1 {
+background: green;
+}
+.paragraph-1 {
+background: grey;
+font-size: 32pt;
+color: black;
+}
+
+.paragraph-2{
+border: 10px solid black;
+border-radius: 5px;
+font-size: 24pt;
+margin-bottom: 60px;
+padding-bottom:60px;
+padding-left:20px;
+}
+
+.paraghraph-3 {
+font_weight: bold;
+font-size: 25pt;
+
+}
